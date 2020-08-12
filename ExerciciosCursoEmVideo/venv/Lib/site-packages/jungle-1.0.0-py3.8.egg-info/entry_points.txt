@@ -1,0 +1,3 @@
+[console_scripts]
+jungle = jungle.cli:cli
+

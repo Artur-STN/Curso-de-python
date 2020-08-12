@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: jungle
+Version: 1.0.0
+Summary: AWS operations by cli should be simpler
+Home-page: https://github.com/achiku/jungle
+Author: Akira Chiku
+Author-email: akira.chiku@gmail.com
+License: MIT
+Description: AWS operations by cli should be simpler.
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

@@ -1,0 +1,6 @@
+Artur;19
+José;33
+Gustavo;40
+Maria;16
+Fernando;47
+Luiz;20
